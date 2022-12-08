@@ -1,0 +1,15 @@
+.Main-title {
+    text-align: center;
+    color: rgb(103, 4, 4);
+}
+
+.links {
+    text-align: center;
+    
+}
+
+.container {
+    background-image: url("./background-image/download.jpeg");
+    background-size: cover;
+    background-size: 100%;
+}
