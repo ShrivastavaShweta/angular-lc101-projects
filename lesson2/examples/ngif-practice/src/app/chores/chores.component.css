@@ -16,3 +16,12 @@ img {
     display: block;
     margin: auto;
 }
+
+p {
+    color: rgb(6, 6, 138);
+}
+
+.todo {
+    color: rgb(5, 86, 5);
+}
+
